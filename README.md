@@ -38,4 +38,4 @@ Program ini digunakan untuk menghitung total pembayaran belanja dengan sistem di
 ## Cara menjalankan
 1. Clone repository ini:
   ```bash
-https://github.com/muhammadrifki3030-dotcom/tugas-algoritma-php.git
+https://github.com/riskiariyanda68-png/tugas-algoritma-php.git
